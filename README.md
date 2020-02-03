@@ -8,8 +8,8 @@ In this repo, there are 2 files
 - Jupyter Notebook (Data Extraction with API)
 - Excel file (df_woodlands_south.xlsx)
 
-Please feel free to share with me your comments, feedback and suggestions!
+Please feel free to share with me your comments, feedback and suggestions!  
 
-Best Regards,
-Kenneth
+Best Regards,  
+Kenneth  
 03 Feb 2020
